@@ -1,0 +1,366 @@
+Connected to ESP32-CAM at http://192.168.128.66:81/stream. Press 'q' to quit.
+Capture: 588.76 ms | MediaPipe: 39.81 ms | Show: 27.73 ms
+Capture: 4.00 ms | MediaPipe: 60.34 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 54.80 ms | Show: 0.00 ms
+Capture: 4.93 ms | MediaPipe: 67.15 ms | Show: 0.00 ms
+Capture: 3.05 ms | MediaPipe: 66.87 ms | Show: 0.00 ms
+Capture: 1.95 ms | MediaPipe: 71.46 ms | Show: 1.03 ms
+
+FPS: 6 | Hand FPS: 0 | No-Hand FPS: 6
+
+Capture: 1.99 ms | MediaPipe: 50.19 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 60.62 ms | Show: 0.00 ms
+Capture: 5.47 ms | MediaPipe: 50.60 ms | Show: 0.00 ms
+Capture: 2.43 ms | MediaPipe: 52.68 ms | Show: 0.00 ms
+Capture: 4.62 ms | MediaPipe: 53.09 ms | Show: 0.00 ms
+Capture: 1.71 ms | MediaPipe: 51.44 ms | Show: 0.00 ms
+Capture: 2.51 ms | MediaPipe: 49.40 ms | Show: 0.00 ms
+Capture: 3.05 ms | MediaPipe: 56.79 ms | Show: 0.00 ms
+Capture: 5.01 ms | MediaPipe: 34.25 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 35.19 ms | Show: 0.00 ms
+Capture: 2.05 ms | MediaPipe: 32.41 ms | Show: 0.72 ms
+Capture: 2.00 ms | MediaPipe: 34.20 ms | Show: 0.00 ms
+Capture: 1.78 ms | MediaPipe: 49.51 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 48.26 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 38.36 ms | Show: 0.00 ms
+Capture: 3.03 ms | MediaPipe: 34.34 ms | Show: 0.00 ms
+Capture: 2.02 ms | MediaPipe: 33.18 ms | Show: 0.00 ms
+
+FPS: 17 | Hand FPS: 0 | No-Hand FPS: 17
+
+Capture: 3.00 ms | MediaPipe: 58.56 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 39.62 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 40.56 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 34.23 ms | Show: 0.00 ms
+Capture: 3.05 ms | MediaPipe: 33.19 ms | Show: 0.00 ms
+Capture: 2.02 ms | MediaPipe: 47.98 ms | Show: 0.00 ms
+Capture: 2.39 ms | MediaPipe: 36.73 ms | Show: 0.00 ms
+Capture: 1.95 ms | MediaPipe: 38.21 ms | Show: 0.97 ms
+Capture: 2.00 ms | MediaPipe: 41.71 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 39.97 ms | Show: 0.00 ms
+Capture: 4.08 ms | MediaPipe: 56.62 ms | Show: 0.00 ms
+Capture: 2.82 ms | MediaPipe: 43.20 ms | Show: 1.00 ms
+Capture: 3.05 ms | MediaPipe: 50.84 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 56.61 ms | Show: 0.99 ms
+Capture: 10.86 ms | MediaPipe: 65.68 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 47.85 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 48.32 ms | Show: 0.00 ms
+
+FPS: 17 | Hand FPS: 0 | No-Hand FPS: 17
+
+Capture: 4.64 ms | MediaPipe: 44.47 ms | Show: 0.00 ms
+Capture: 1.46 ms | MediaPipe: 49.89 ms | Show: 0.00 ms
+Capture: 2.03 ms | MediaPipe: 46.90 ms | Show: 0.00 ms
+Capture: 5.55 ms | MediaPipe: 54.07 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 60.66 ms | Show: 0.00 ms
+Capture: 4.03 ms | MediaPipe: 54.00 ms | Show: 0.00 ms
+Capture: 62.45 ms | MediaPipe: 69.10 ms | Show: 0.00 ms
+Capture: 2.95 ms | MediaPipe: 47.93 ms | Show: 0.98 ms
+Capture: 1.98 ms | MediaPipe: 66.91 ms | Show: 0.00 ms
+Capture: 5.00 ms | MediaPipe: 56.64 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 44.90 ms | Show: 1.03 ms
+Capture: 2.06 ms | MediaPipe: 41.89 ms | Show: 0.00 ms
+Capture: 2.10 ms | MediaPipe: 46.67 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 70.60 ms | Show: 0.79 ms
+Capture: 3.14 ms | MediaPipe: 48.26 ms | Show: 0.00 ms
+
+FPS: 15 | Hand FPS: 0 | No-Hand FPS: 15
+
+Capture: 1.98 ms | MediaPipe: 67.50 ms | Show: 1.00 ms
+Capture: 1.99 ms | MediaPipe: 43.53 ms | Show: 0.00 ms
+Capture: 1.77 ms | MediaPipe: 55.51 ms | Show: 0.00 ms
+Capture: 2.42 ms | MediaPipe: 51.92 ms | Show: 0.00 ms
+Capture: 4.24 ms | MediaPipe: 86.55 ms | Show: 0.00 ms
+Capture: 2.56 ms | MediaPipe: 44.67 ms | Show: 0.00 ms
+Capture: 5.71 ms | MediaPipe: 34.74 ms | Show: 0.00 ms
+Capture: 3.00 ms | MediaPipe: 41.12 ms | Show: 0.99 ms
+Capture: 1.99 ms | MediaPipe: 41.69 ms | Show: 0.00 ms
+Capture: 2.15 ms | MediaPipe: 46.35 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 43.65 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 73.53 ms | Show: 0.00 ms
+Capture: 1.60 ms | MediaPipe: 38.40 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 34.14 ms | Show: 0.00 ms
+Capture: 2.13 ms | MediaPipe: 86.90 ms | Show: 0.00 ms
+Capture: 3.02 ms | MediaPipe: 62.05 ms | Show: 1.01 ms
+
+FPS: 16 | Hand FPS: 0 | No-Hand FPS: 16
+
+Capture: 1.98 ms | MediaPipe: 32.50 ms | Show: 1.01 ms
+Capture: 1.87 ms | MediaPipe: 35.91 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 33.32 ms | Show: 0.00 ms
+Capture: 1.60 ms | MediaPipe: 71.49 ms | Show: 0.00 ms
+Capture: 3.03 ms | MediaPipe: 41.23 ms | Show: 0.00 ms
+Capture: 3.11 ms | MediaPipe: 37.83 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 33.31 ms | Show: 0.00 ms
+Capture: 2.08 ms | MediaPipe: 27.46 ms | Show: 0.00 ms
+Capture: 1.95 ms | MediaPipe: 39.01 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 35.12 ms | Show: 0.00 ms
+Capture: 2.31 ms | MediaPipe: 32.69 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 38.21 ms | Show: 0.00 ms
+Capture: 3.09 ms | MediaPipe: 41.57 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 36.34 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 34.65 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 32.14 ms | Show: 0.00 ms
+Capture: 3.05 ms | MediaPipe: 28.68 ms | Show: 6.03 ms
+Capture: 2.00 ms | MediaPipe: 70.53 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 82.76 ms | Show: 0.00 ms
+
+FPS: 19 | Hand FPS: 2 | No-Hand FPS: 17
+
+Capture: 2.01 ms | MediaPipe: 75.36 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 73.45 ms | Show: 1.00 ms
+Capture: 2.11 ms | MediaPipe: 86.51 ms | Show: 0.00 ms
+Capture: 2.91 ms | MediaPipe: 69.44 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 79.17 ms | Show: 0.00 ms
+Capture: 2.20 ms | MediaPipe: 79.11 ms | Show: 0.65 ms
+Capture: 1.38 ms | MediaPipe: 76.18 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 86.99 ms | Show: 1.94 ms
+Capture: 2.00 ms | MediaPipe: 72.60 ms | Show: 0.00 ms
+Capture: 1.86 ms | MediaPipe: 81.18 ms | Show: 0.00 ms
+Capture: 2.32 ms | MediaPipe: 92.90 ms | Show: 0.00 ms
+
+FPS: 11 | Hand FPS: 11 | No-Hand FPS: 0
+
+Capture: 2.00 ms | MediaPipe: 72.55 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 87.18 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 75.61 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 65.45 ms | Show: 1.00 ms
+Capture: 2.57 ms | MediaPipe: 72.19 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 81.13 ms | Show: 0.00 ms
+Capture: 2.03 ms | MediaPipe: 66.87 ms | Show: 0.00 ms
+Capture: 3.04 ms | MediaPipe: 63.49 ms | Show: 0.00 ms
+Capture: 2.49 ms | MediaPipe: 59.00 ms | Show: 0.00 ms
+Capture: 2.84 ms | MediaPipe: 74.62 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 85.88 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 103.91 ms | Show: 0.00 ms
+
+FPS: 12 | Hand FPS: 12 | No-Hand FPS: 0
+
+Capture: 3.07 ms | MediaPipe: 77.96 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 44.50 ms | Show: 0.00 ms
+Capture: 2.67 ms | MediaPipe: 34.71 ms | Show: 0.00 ms
+Capture: 1.94 ms | MediaPipe: 58.98 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 48.25 ms | Show: 0.00 ms
+Capture: 3.98 ms | MediaPipe: 47.90 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 38.37 ms | Show: 1.00 ms
+Capture: 1.96 ms | MediaPipe: 37.30 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 40.29 ms | Show: 1.00 ms
+Capture: 3.00 ms | MediaPipe: 33.39 ms | Show: 0.00 ms
+Capture: 1.87 ms | MediaPipe: 37.28 ms | Show: 1.01 ms
+Capture: 2.03 ms | MediaPipe: 39.40 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 62.07 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 42.20 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 47.32 ms | Show: 0.00 ms
+Capture: 3.27 ms | MediaPipe: 83.51 ms | Show: 0.00 ms
+Capture: 2.13 ms | MediaPipe: 103.77 ms | Show: 0.00 ms
+
+FPS: 17 | Hand FPS: 2 | No-Hand FPS: 15
+
+Capture: 2.00 ms | MediaPipe: 73.46 ms | Show: 0.00 ms
+Capture: 1.75 ms | MediaPipe: 85.40 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 62.09 ms | Show: 0.00 ms
+Capture: 1.92 ms | MediaPipe: 60.20 ms | Show: 0.00 ms
+Capture: 3.73 ms | MediaPipe: 57.13 ms | Show: 0.00 ms
+Capture: 3.01 ms | MediaPipe: 90.91 ms | Show: 0.00 ms
+Capture: 1.43 ms | MediaPipe: 65.01 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 75.69 ms | Show: 0.00 ms
+Capture: 2.12 ms | MediaPipe: 74.51 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 69.96 ms | Show: 0.00 ms
+Capture: 2.26 ms | MediaPipe: 63.24 ms | Show: 2.02 ms
+Capture: 3.08 ms | MediaPipe: 70.43 ms | Show: 0.00 ms
+Capture: 1.94 ms | MediaPipe: 71.02 ms | Show: 0.00 ms
+
+FPS: 13 | Hand FPS: 13 | No-Hand FPS: 0
+
+Capture: 1.98 ms | MediaPipe: 80.24 ms | Show: 0.00 ms
+Capture: 2.02 ms | MediaPipe: 74.66 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 59.48 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 59.26 ms | Show: 0.00 ms
+Capture: 3.00 ms | MediaPipe: 57.65 ms | Show: 0.00 ms
+Capture: 2.99 ms | MediaPipe: 68.42 ms | Show: 0.00 ms
+Capture: 3.55 ms | MediaPipe: 88.98 ms | Show: 0.99 ms
+Capture: 12.97 ms | MediaPipe: 119.49 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 122.28 ms | Show: 0.00 ms
+Capture: 5.01 ms | MediaPipe: 114.09 ms | Show: 0.00 ms
+Capture: 1.97 ms | MediaPipe: 123.36 ms | Show: 0.99 ms
+
+FPS: 11 | Hand FPS: 11 | No-Hand FPS: 0
+
+Capture: 2.00 ms | MediaPipe: 115.15 ms | Show: 0.00 ms
+Capture: 3.17 ms | MediaPipe: 105.33 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 86.35 ms | Show: 1.01 ms
+Capture: 3.49 ms | MediaPipe: 127.05 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 94.84 ms | Show: 0.00 ms
+Capture: 2.66 ms | MediaPipe: 95.84 ms | Show: 0.00 ms
+Capture: 1.75 ms | MediaPipe: 72.73 ms | Show: 0.00 ms
+Capture: 2.05 ms | MediaPipe: 80.92 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 68.64 ms | Show: 0.00 ms
+Capture: 5.19 ms | MediaPipe: 75.65 ms | Show: 0.99 ms
+
+FPS: 10 | Hand FPS: 10 | No-Hand FPS: 0
+
+Capture: 2.00 ms | MediaPipe: 83.92 ms | Show: 0.00 ms
+Capture: 4.78 ms | MediaPipe: 78.92 ms | Show: 0.00 ms
+Capture: 2.46 ms | MediaPipe: 87.59 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 104.84 ms | Show: 1.01 ms
+Capture: 2.00 ms | MediaPipe: 82.52 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 86.25 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 112.96 ms | Show: 0.00 ms
+Capture: 5.02 ms | MediaPipe: 89.98 ms | Show: 0.00 ms
+Capture: 3.55 ms | MediaPipe: 71.98 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 82.48 ms | Show: 1.00 ms
+
+FPS: 10 | Hand FPS: 10 | No-Hand FPS: 0
+
+Capture: 2.00 ms | MediaPipe: 80.93 ms | Show: 0.00 ms
+Capture: 2.02 ms | MediaPipe: 60.81 ms | Show: 0.00 ms
+Capture: 1.97 ms | MediaPipe: 172.15 ms | Show: 0.00 ms
+Capture: 18.97 ms | MediaPipe: 117.04 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 119.12 ms | Show: 0.00 ms
+Capture: 4.70 ms | MediaPipe: 67.13 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 83.97 ms | Show: 0.00 ms
+Capture: 7.17 ms | MediaPipe: 92.82 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 117.65 ms | Show: 0.00 ms
+
+FPS: 9 | Hand FPS: 9 | No-Hand FPS: 0
+
+Capture: 3.21 ms | MediaPipe: 133.94 ms | Show: 0.00 ms
+Capture: 6.62 ms | MediaPipe: 93.64 ms | Show: 0.00 ms
+Capture: 3.78 ms | MediaPipe: 61.13 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 87.34 ms | Show: 0.00 ms
+Capture: 3.33 ms | MediaPipe: 59.36 ms | Show: 0.00 ms
+Capture: 3.51 ms | MediaPipe: 83.67 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 110.21 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 81.87 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 74.40 ms | Show: 0.00 ms
+Capture: 2.02 ms | MediaPipe: 81.95 ms | Show: 0.00 ms
+
+FPS: 10 | Hand FPS: 10 | No-Hand FPS: 0
+
+Capture: 3.01 ms | MediaPipe: 75.74 ms | Show: 0.00 ms
+Capture: 1.97 ms | MediaPipe: 65.48 ms | Show: 0.00 ms
+Capture: 2.03 ms | MediaPipe: 116.08 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 161.18 ms | Show: 1.00 ms
+Capture: 2.00 ms | MediaPipe: 198.99 ms | Show: 0.00 ms
+Capture: 2.95 ms | MediaPipe: 168.58 ms | Show: 0.00 ms
+Capture: 3.98 ms | MediaPipe: 91.71 ms | Show: 1.11 ms
+Capture: 1.98 ms | MediaPipe: 90.69 ms | Show: 1.02 ms
+
+FPS: 8 | Hand FPS: 5 | No-Hand FPS: 3
+
+Capture: 2.98 ms | MediaPipe: 56.72 ms | Show: 0.00 ms
+Capture: 3.00 ms | MediaPipe: 83.93 ms | Show: 1.00 ms
+Capture: 1.99 ms | MediaPipe: 81.09 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 62.63 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 96.04 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 86.96 ms | Show: 0.00 ms
+Capture: 3.00 ms | MediaPipe: 93.43 ms | Show: 0.00 ms
+Capture: 2.99 ms | MediaPipe: 65.03 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 70.78 ms | Show: 0.00 ms
+Capture: 3.45 ms | MediaPipe: 76.34 ms | Show: 0.00 ms
+Capture: 3.99 ms | MediaPipe: 85.13 ms | Show: 0.00 ms
+
+FPS: 11 | Hand FPS: 0 | No-Hand FPS: 11
+
+Capture: 5.30 ms | MediaPipe: 55.28 ms | Show: 0.00 ms
+Capture: 3.28 ms | MediaPipe: 49.51 ms | Show: 0.00 ms
+Capture: 4.04 ms | MediaPipe: 45.78 ms | Show: 0.96 ms
+Capture: 4.70 ms | MediaPipe: 41.55 ms | Show: 0.53 ms
+Capture: 5.00 ms | MediaPipe: 41.33 ms | Show: 0.00 ms
+Capture: 3.00 ms | MediaPipe: 64.92 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 49.55 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 71.59 ms | Show: 0.00 ms
+Capture: 6.08 ms | MediaPipe: 49.04 ms | Show: 0.00 ms
+Capture: 5.05 ms | MediaPipe: 67.71 ms | Show: 0.00 ms
+Capture: 2.03 ms | MediaPipe: 41.06 ms | Show: 1.01 ms
+Capture: 2.86 ms | MediaPipe: 45.68 ms | Show: 0.00 ms
+Capture: 3.04 ms | MediaPipe: 50.52 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 41.03 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 35.02 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 34.47 ms | Show: 0.00 ms
+
+FPS: 16 | Hand FPS: 0 | No-Hand FPS: 16
+
+Capture: 3.35 ms | MediaPipe: 39.57 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 67.23 ms | Show: 0.00 ms
+Capture: 1.92 ms | MediaPipe: 37.25 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 50.70 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 44.69 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 37.24 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 52.03 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 37.14 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 35.47 ms | Show: 0.00 ms
+Capture: 2.40 ms | MediaPipe: 41.40 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 50.33 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 47.52 ms | Show: 0.00 ms
+Capture: 1.34 ms | MediaPipe: 39.91 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 38.28 ms | Show: 0.00 ms
+Capture: 2.04 ms | MediaPipe: 32.13 ms | Show: 0.00 ms
+Capture: 1.92 ms | MediaPipe: 46.46 ms | Show: 0.00 ms
+Capture: 4.95 ms | MediaPipe: 32.88 ms | Show: 0.00 ms
+Capture: 1.97 ms | MediaPipe: 34.13 ms | Show: 0.00 ms
+Capture: 4.19 ms | MediaPipe: 35.92 ms | Show: 0.00 ms
+
+FPS: 19 | Hand FPS: 0 | No-Hand FPS: 19
+
+Capture: 2.00 ms | MediaPipe: 42.47 ms | Show: 0.00 ms
+Capture: 3.98 ms | MediaPipe: 54.88 ms | Show: 0.00 ms
+Capture: 1.49 ms | MediaPipe: 54.85 ms | Show: 0.00 ms
+Capture: 2.50 ms | MediaPipe: 54.81 ms | Show: 0.00 ms
+Capture: 6.00 ms | MediaPipe: 57.72 ms | Show: 0.40 ms
+Capture: 2.54 ms | MediaPipe: 77.54 ms | Show: 0.00 ms
+Capture: 5.04 ms | MediaPipe: 37.98 ms | Show: 0.00 ms
+Capture: 2.02 ms | MediaPipe: 43.28 ms | Show: 0.00 ms
+Capture: 7.22 ms | MediaPipe: 43.28 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 40.40 ms | Show: 0.00 ms
+Capture: 5.22 ms | MediaPipe: 50.11 ms | Show: 0.00 ms
+Capture: 3.35 ms | MediaPipe: 45.98 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 37.63 ms | Show: 0.00 ms
+Capture: 4.05 ms | MediaPipe: 36.90 ms | Show: 0.00 ms
+Capture: 1.91 ms | MediaPipe: 51.11 ms | Show: 0.00 ms
+Capture: 2.24 ms | MediaPipe: 69.08 ms | Show: 4.52 ms
+Capture: 2.01 ms | MediaPipe: 43.44 ms | Show: 0.00 ms
+
+FPS: 17 | Hand FPS: 0 | No-Hand FPS: 17
+
+Capture: 2.00 ms | MediaPipe: 35.17 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 33.33 ms | Show: 1.00 ms
+Capture: 2.08 ms | MediaPipe: 39.16 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 41.87 ms | Show: 1.00 ms
+Capture: 5.05 ms | MediaPipe: 37.93 ms | Show: 0.00 ms
+Capture: 3.25 ms | MediaPipe: 31.16 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 51.44 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 69.78 ms | Show: 0.00 ms
+Capture: 3.23 ms | MediaPipe: 49.92 ms | Show: 0.00 ms
+Capture: 3.00 ms | MediaPipe: 36.68 ms | Show: 0.00 ms
+Capture: 1.98 ms | MediaPipe: 43.10 ms | Show: 0.00 ms
+Capture: 3.05 ms | MediaPipe: 47.69 ms | Show: 1.00 ms
+Capture: 2.01 ms | MediaPipe: 58.80 ms | Show: 0.00 ms
+Capture: 2.78 ms | MediaPipe: 30.14 ms | Show: 0.00 ms
+Capture: 3.02 ms | MediaPipe: 36.16 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 54.55 ms | Show: 0.00 ms
+Capture: 1.66 ms | MediaPipe: 40.23 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 40.36 ms | Show: 0.00 ms
+
+FPS: 18 | Hand FPS: 0 | No-Hand FPS: 18
+
+Capture: 3.00 ms | MediaPipe: 54.35 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 70.36 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 83.97 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 46.41 ms | Show: 0.00 ms
+Capture: 2.99 ms | MediaPipe: 77.08 ms | Show: 0.00 ms
+Capture: 4.01 ms | MediaPipe: 68.88 ms | Show: 0.00 ms
+Capture: 1.99 ms | MediaPipe: 68.61 ms | Show: 0.00 ms
+Capture: 6.61 ms | MediaPipe: 87.20 ms | Show: 0.00 ms
+Capture: 3.18 ms | MediaPipe: 97.02 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 55.54 ms | Show: 0.00 ms
+Capture: 6.96 ms | MediaPipe: 84.32 ms | Show: 0.00 ms
+Capture: 5.36 ms | MediaPipe: 55.48 ms | Show: 0.00 ms
+
+FPS: 12 | Hand FPS: 0 | No-Hand FPS: 12
+
+Capture: 2.98 ms | MediaPipe: 36.26 ms | Show: 0.00 ms
+Capture: 2.03 ms | MediaPipe: 38.53 ms | Show: 0.00 ms
+Capture: 2.42 ms | MediaPipe: 48.39 ms | Show: 0.00 ms
+Capture: 2.00 ms | MediaPipe: 48.60 ms | Show: 0.00 ms
+Capture: 2.01 ms | MediaPipe: 38.46 ms | Show: 0.00 ms
